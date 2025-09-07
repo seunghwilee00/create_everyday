@@ -3,12 +3,12 @@
 This is my very first project written in Python: a simple calculator that supports basic arithmatic operations.
 
 ## Features
--Addution
+-Addition
 -subtraction
 -Multiplication
 -Division('/') with zero-division check
 
-What I Learned
+### What I Learned
 -Taking user input in Python(input)
 -Converting strings to numbers(float)
 -Using conditional statements(if/elif/else)
